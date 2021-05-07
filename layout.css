@@ -50,7 +50,8 @@ header a {
 	padding-right:50px;
 }
 
-header span {
+header span img{
+	width: 26%;
 	padding-top: 5px;
 	float: left;
 }
